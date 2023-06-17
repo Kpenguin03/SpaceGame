@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wd6gZXLIVqqYbN8n1b725ENllsgY18p/MDkx9cz1I9b78KFcGvJi2tXlpbZ1e2ySZ0xTpt5FcoiANxAqFZGs8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kriss\\Documents\\BYUI Documents\\BYUI_2023\\02_Spring_2023\\Applied Programing\\M4\\YourProjectName\\YourProjectName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kriss\\.nuget\\packages\\raylib-cs\\4.5.0.1\\raylib-cs.4.5.0.1.nupkg.sha512",
+    "C:\\Users\\kriss\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
