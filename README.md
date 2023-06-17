@@ -2,7 +2,7 @@
 
 {Move the rocket with the arrow keys and collect gems but dodge bombs and asteroids}
 
-{The purpose of this project are to demonstrate the abilities of Raylib library with the C# language}
+{The purpose of this project is to demonstrate the abilities of Raylib library with the C# language}
 
 
 [Software Demo Video](https://youtu.be/SQR_6Q9-l8w)
